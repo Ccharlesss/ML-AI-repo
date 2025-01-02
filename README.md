@@ -1,2 +1,2 @@
 # ML-AI-repo
-Repository that includes multiple projects done in my ML/AI journey
+Repository that includes multiple projects done for my AI & Machine Learning course.
